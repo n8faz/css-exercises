@@ -1,6 +1,6 @@
 .odd {
     background-color: pink;
-    font-family: Verdana, 'Dejavu Sans', sans-serif;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
 #two {
@@ -12,7 +12,7 @@
     font-size: 24px;
 }
 
-.five {
+#four {
     background-color: lightgreen;
     font-weight: bold;
     font-size: 24px;
